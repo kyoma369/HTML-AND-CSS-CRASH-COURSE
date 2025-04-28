@@ -5,6 +5,7 @@ h1{
     text-decoration: underline;
     font-family: Arial;
     text-align: center;
+    border:4px solid brown;
 }
 p{
     color: slateblue;
@@ -28,11 +29,17 @@ p.error{
    border:4px solid brown;
 }
 h2.second{
-    background-color: #6b5454;
+    background-color: #b19393;
     text-align: center;
     border:4px solid brown;
 }
 p.intro{
     text-align: center;
     color: black;
+}
+div{
+    background-color: #f1d2d2;
+}
+p.body{
+    border:4px solid brown;
 }
